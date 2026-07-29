@@ -1,0 +1,2 @@
+(this["webpackJsonphello-react-app"]=this["webpackJsonphello-react-app"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var r=c(1),n=c.n(r),s=c(4),a=c.n(s),l=(c(3),c(0));var o=()=>Object(l.jsx)("h1",{children:"Hello, World!"});var p=()=>Object(l.jsx)("div",{className:"App",children:Object(l.jsx)(o,{World2:!0})});a.a.render(Object(l.jsx)(n.a.StrictMode,{children:Object(l.jsx)(p,{})}),document.getElementById("root"))},3:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.fe0d1401.chunk.js.map
